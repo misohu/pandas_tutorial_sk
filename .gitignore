@@ -46,6 +46,7 @@ geckodriver.log
 *.iml
 .mypy_cache
 test.ipynb
+.ipynb_checkpoints
 
 # jetbrains IDE stuff
 *.iml
